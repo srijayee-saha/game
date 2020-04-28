@@ -1,4 +1,4 @@
-// GAME.CPP--Example from Chapter 3 "An Introduction to C++"
+
 
 #include <stdlib.h>
 #include <iostream.h>
